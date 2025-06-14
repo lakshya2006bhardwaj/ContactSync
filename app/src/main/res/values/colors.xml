@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color1">#F44336</color> <!-- Red -->
+    <color name="color2">#E91E63</color> <!-- Pink -->
+    <color name="color3">#9C27B0</color> <!-- Purple -->
+    <color name="color4">#3F51B5</color> <!-- Indigo -->
+    <color name="color5">#2196F3</color> <!-- Blue -->
+    <color name="color6">#03A9F4</color> <!-- Light Blue -->
+    <color name="color7">#009688</color> <!-- Teal -->
+    <color name="color8">#4CAF50</color> <!-- Green -->
+    <color name="color9">#FF9800</color> <!-- Orange -->
+    <color name="color10">#FF5722</color> <!-- Deep Orange -->
+
+</resources>
